@@ -1,0 +1,18 @@
+# Ignore the entire learning folder
+FastApi_learn/
+
+# Virtual environments
+.nvenv/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Local SQLite databases
+*.db
+*.sqlite3
